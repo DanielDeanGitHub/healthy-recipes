@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### WEB DEVELOPMENT FOUNDATIONS
 
 # Healthy Recipes
-
-#### Objective provided by Codecademy:
 
 Using CSS selectors, you’ll give a recipe website some new style!
 
